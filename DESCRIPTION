@@ -1,0 +1,6 @@
+Type: Compendium
+Package: compendium
+Version: 0.5.0
+Depends: rmarkdown
+Suggests: testthat, lintr, gh
+Remotes: r-lib/gh

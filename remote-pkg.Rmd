@@ -1,0 +1,12 @@
+---
+title: "Demo'd bug"
+output: html_document
+---
+
+
+Call a remote package
+
+```{r}
+library("gh")
+```
+
