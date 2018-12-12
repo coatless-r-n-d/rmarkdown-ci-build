@@ -1,0 +1,5 @@
+language: R
+sudo: false
+cache: packages
+script:
+  - Rscript test/test_rmd_render.R
